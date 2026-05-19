@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/DevBoard.API/DevBoard.API.csproj" />
+  <Project Path="src/DevBoard.Application/DevBoard.Application.csproj" />
+  <Project Path="src/DevBoard.Domain/DevBoard.Domain.csproj" />
+  <Project Path="src/DevBoard.Infrastructure/DevBoard.Infrastructure.csproj" />
+</Solution>
